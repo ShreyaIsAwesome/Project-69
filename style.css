@@ -1,0 +1,18 @@
+
+.number_play {
+    border: 30px;
+    padding: 50px;
+    float: none;
+}
+
+.number_play img {
+    width: 100%;
+}
+
+.number_play hr {
+    width: 230px;
+}
+
+.answers {
+display: inline-block;
+}
